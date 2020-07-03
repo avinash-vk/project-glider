@@ -1,5 +1,8 @@
 body {
+  padding:40px;
   margin: 0;
+  background-color: rgb(182, 206, 206);
+  justify-content: center;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
@@ -7,7 +10,8 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.workspace{
+  background-color: antiquewhite;
+  height: 600px;
+  width: 600px;
 }
